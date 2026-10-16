@@ -4,13 +4,13 @@ Five database design exercises, each delivered as a requirements specification (
 
 ## Projects
 
-| # | Project | Domain | Key entities |
-|---|---------|--------|--------------|
-| 1 | Simple Clinic | Healthcare | Persons, Patients, Doctors, Appointments, Payments |
-| 2 | Simple Library | Library | Persons, Authors, Books, Book Copies, Borrowing, ID cards |
-| 3 | Karate Club | Sports club | Members, Subscriptions, Payments, Belt Tests, Training |
-| 4 | Car Rental | Rental service | Vehicles, Categories, Fuel Types, Customers, Bookings |
-| 5 | Online Store | E-commerce | Customers, Products, Product Images, Orders, Reviews |
+| #   | Project        | Domain         | Key entities                                              |
+| --- | -------------- | -------------- | --------------------------------------------------------- |
+| 1   | Simple Clinic  | Healthcare     | Persons, Patients, Doctors, Appointments, Payments        |
+| 2   | Simple Library | Library        | Persons, Authors, Books, Book Copies, Borrowing, ID cards |
+| 3   | Karate Club    | Sports club    | Members, Subscriptions, Payments, Belt Tests, Training    |
+| 4   | Car Rental     | Rental service | Vehicles, Categories, Fuel Types, Customers, Bookings     |
+| 5   | Online Store   | E-commerce     | Customers, Products, Product Images, Orders, Reviews      |
 
 ## What each spec covers
 
@@ -31,3 +31,9 @@ Example (Project 4 — Car Rental): `Vehicles` (make, model, year, mileage, rate
 
 - Relational database design (SQL Server–style type system)
 - Delivered as PDF requirements specifications
+
+  <img src="s1.png" width="100%"/>
+  <img src="s2.png" width="100%"/>
+  <img src="s3.png" width="100%"/>
+  <img src="s4.png" width="100%"/>
+  <img src="s5.png" width="100%"/>
