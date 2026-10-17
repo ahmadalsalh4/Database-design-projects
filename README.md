@@ -2,7 +2,7 @@
 
 Five database design exercises, each delivered as a requirements specification (PDF) with a full relational schema: tables, primary/foreign keys, column types, and relationships.
 
-## Projects
+## Projects 
 
 | #   | Project        | Domain         | Key entities                                              |
 | --- | -------------- | -------------- | --------------------------------------------------------- |
